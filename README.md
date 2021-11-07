@@ -33,10 +33,14 @@ Temperature and Sea Ice Coverage data from the [World Meteorological Organizatio
 ![Results](images/plots.png)
 
 ![Coefficients](images/results.png)
+
 Evolution of the model during training.
+
 ![Animation](images/evolution.gif)
+
 CO2 concentration prediction from model. 455 ppm by 2030.
-![CO2](images/co2.png)
+
+![CO2](images/CO2.png)
 ### Conclusion
 We employed Physics Informed Neural Networks to develop an ODE system that models the global mean temperature, sea ice coverage, and CO2 concentration. It choose correct constants to model the data. As expected, we found that climate change is a pressing issue and carbon emissions appear to have no sign of slowing down.
 
