@@ -1,7 +1,8 @@
-# Climate Forecasting Using Physics Informed Neural Networks
-## Winner of best Machine Learning project at the 2021 McGill Physics Hackathon
+# Note: This was done in 24 hours! We did not polish it up.
+## Climate Forecasting Using Physics Informed Neural Networks
+### Winner of best Machine Learning project at the 2021 McGill Physics Hackathon
 [Devpost](https://devpost.com/software/great-dynamics)
-## Project Goal
+### Project Goal
 Use Physics Informed Neural Networks to model the set of coupled differential equations that govern the patterns of Earth’s temperature, Ice coverage, and CO2 based on the data acquired during the last half-century
 Using the the data recovered from our ML model make predictions about near future.
 
